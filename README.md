@@ -23,6 +23,9 @@
 ```
 ollama --version
 ```
+#### Deve aparecer algo assim em seu terminal:
+
+<img width="357" height="39" alt="Image" src="https://github.com/user-attachments/assets/58d9cc1c-7146-437e-b8f4-91b9f24bcea5" />
 
 #### Após isso em seu terminal digite o comando para fazer o dowload do modelo desejado (Phi3:mini):
 
@@ -35,6 +38,10 @@ ollama pull phi3:mini
 ```
 ollama list
 ```
+
+#### Deve aparecer algo assim em seu terminal:
+<img width="476" height="69" alt="Image" src="https://github.com/user-attachments/assets/81a39127-45a0-4638-aa30-d150460d8245" />
+
 ---
 ### Passo 2
 #### abra o seu terminal no ambiente Backend e instale as dependências necessárias:
