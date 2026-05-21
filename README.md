@@ -1,8 +1,9 @@
 # Rocket Chat 🚀
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
 
-## Projeto feito durante o curso de FastApi da Rocketseat
+## Chat de IA focado em resolver problemas em python
 
+<!-- ### Projeto feito durante o curso de FastApi da Rocketseat -->
 ### O projeto ultiliza como principal as seguintes tecnologias:
 
 * FastApi
@@ -15,8 +16,7 @@
 ### Passo 1
 #### Primeiramente faça o dowload do Ollama (Mac, Linux e Windows) em seu dispositivo através do site oficial: https://ollama.com/download
 
-<img></img>
-
+<img width="1919" height="641" alt="Image" src="https://github.com/user-attachments/assets/4a07e8da-ee2a-4e1b-a5ff-5a3af188d4ae" />
 
 #### Digite no seu terminal para conferir se o ollama está instalado (Obs: recomendado usar o terminal da sua maquina e não o do VScode)
 
@@ -95,6 +95,7 @@ python -m streamlit run main.py
 python run.py
 ```
 ---
+
 ### Passo 4
 
 #### Rodando o App 
@@ -103,7 +104,5 @@ python run.py
 ```
 python run.py 
 ```
-
-
-<!-- - Artes
-  - o usuário deve ser capaz de ver: o nome da arte, imagem e estilo -->
+#### O app deve abrir normalmente em seu navegador padrão:
+<img width="1919" height="621" alt="Image" src="https://github.com/user-attachments/assets/9af7d0b7-093e-4f61-bbc6-cdd0c6a3e39d" />
